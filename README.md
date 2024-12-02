@@ -1,2 +1,2 @@
 # TheraProgress
-[Просмотреть презентацию](https://github.com/Yusuf-corinnem/TheraProgressPublic/TheraProgress.pptx)
+[Просмотреть презентацию](https://github.com/Yusuf-corinnem/TheraProgressPublic/blob/main/TheraProgress.pptx)
